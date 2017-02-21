@@ -28,3 +28,14 @@ Also another libarary exists using shapefiles.
 * [basemap](https://pypi.python.org/pypi/basemap)
 
 Plot data on map projections with matplotlib. An add-on toolkit for matplotlib that lets you plot data on map projections with coastlines, lakes, rivers and political boundaries.
+
+## References
+1. [gmaps](https://pypi.python.org/pypi/gmaps)
+2. [python-gmaps](Python official webpage - https://pypi.python.org/pypi/python-gmaps/0.3.1)
+2. [basemap](https://pypi.python.org/pypi/basemap)
+3. [GoogleAPIs](https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend&keyType=CLIENT_SIDE&reusekey=true)
+4. [Stanford Computational Journalism Lab - Stanford Computational Journalism LabComputational Methods in the Civic Sphere](http://www.compciv.org)
+5. [Github gmaps introduction](https://github.com/pbugnion/gmaps)
+6. [Github gmaps introduction](https://github.com/googlemaps/google-maps-services-python)
+7. [ReadDocs](https://python-gmaps.readthedocs.io/en/latest/)
+8. [gmaps Documentation (Release 0.0.2) - Michał Jaworski]
