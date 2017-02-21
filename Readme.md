@@ -38,4 +38,4 @@ Plot data on map projections with matplotlib. An add-on toolkit for matplotlib t
 5. [Github gmaps introduction](https://github.com/pbugnion/gmaps)
 6. [Github gmaps introduction](https://github.com/googlemaps/google-maps-services-python)
 7. [ReadDocs](https://python-gmaps.readthedocs.io/en/latest/)
-8. [gmaps Documentation (Release 0.0.2) - Michał Jaworski](https://github.com/power9490/GMAPS-tutorials/blob/origin/Document/gmaps%20Documentation%20(Release%200.4.0)%20Pascal%20Bugnion.pdf)
+8. [gmaps Documentation (Release 0.4.0) - Pascal Bugnion](https://github.com/power9490/GMAPS-tutorials/blob/origin/Document/gmaps%20Documentation%20(Release%200.4.0)%20Pascal%20Bugnion.pdf)
